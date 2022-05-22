@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/65394574/169693138-8ff1fad7-6fc4-47cc-95bd-771eda285fc2.png)
 
 
-Organizing files on a desktop is a tiring job. The only way to overcome it is by keeping all the related files in one folder\n
+Organizing files on a desktop is a tiring job. The only way to overcome it is by keeping all the related files in one folder<br/>
 Instead of spending your valuable time in doing this task manually why not take a smarter approach.
 After all, the better organized your files, the faster you can draw information from them. 
 But how do you get started?
