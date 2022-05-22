@@ -1,5 +1,5 @@
 # File-Organizer
-![image](https://user-images.githubusercontent.com/65394574/169693138-8ff1fad7-6fc4-47cc-95bd-771eda285fc2.png)
+![image](https://user-images.githubusercontent.com/65394574/169693923-27d349ce-fc42-47c3-8676-3549643ca8c5.png)
 
 
 * Organizing files on a desktop is a tiring job. The only way to overcome it is by keeping all the related files in one folder<br/>
