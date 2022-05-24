@@ -8,7 +8,11 @@
 * But how do you get started?<br/>
 * Take a look at file organizer demo to know how you can use them to organize different types of files in Windows automatically.<br/>
 
-https://user-images.githubusercontent.com/65394574/170102895-31eb4e53-67eb-4287-8ce5-9087ffb1a7be.mp4
+
+
+https://user-images.githubusercontent.com/65394574/170122655-0c54f735-223c-40fe-90d3-dc0dc9fa8140.mp4
+
+
 
 This File organizer can be run globally on the system using the command prompt
 Just type : <b> fileOrg help </b> to know how to use it
